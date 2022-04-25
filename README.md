@@ -3,7 +3,7 @@
 I´m currently improving my skills in Web Development while working and I´m a math enthusiast<br/>
 I´m a spiritual person :alien: and I like to live life full of meaning and purpose :sparkles::crescent_moon:<br/>
 I like to explore and climb hills :sunrise_over_mountains::sunny:</p>
-<p>:book: I´m currently learning a bit of backend with <b>PHP</b> and <b>MySQL</b></p>
+<p>:book: I have experience with MERN stack and I'm always open to learn new technologies</p>
 <p>:email: My email adress is: <b>lunapsygeek@gmail.com</b></p>
 
 
