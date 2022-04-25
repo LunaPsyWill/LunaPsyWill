@@ -1,6 +1,6 @@
 ### Hi there 👋 I´m William Luna, from México, I´m 23 years.
 <p>I made a course of Web Development<br/>
- I´m currently learning and improving my skills in Web Development and I´m a math enthusiast<br/>
+I´m currently improving my skills in Web Development while working and I´m a math enthusiast<br/>
 I´m a spiritual person :alien: and I like to live life full of meaning and purpose :sparkles::crescent_moon:<br/>
 I like to explore and climb hills :sunrise_over_mountains::sunny:</p>
 <p>:book: I´m currently learning a bit of backend with <b>PHP</b> and <b>MySQL</b></p>
